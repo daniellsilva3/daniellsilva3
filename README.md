@@ -32,5 +32,6 @@ Gosto de adquirir habilidades novas
 
 ## Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:danieelsilva32@gmail.com)
+<div>
+<a href= "mailto:danieelsilva32@gmail.com"><img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
+</div>

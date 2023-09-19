@@ -5,7 +5,7 @@
 
 ![daniellsilva3 GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellsilva3&show_icons=true&theme=cobalt))
 
-## Tecnologia que utilizo no meu dia dia
+## Estudando as seguintes tecnologias:
 
 <div style= "display: inline_block"><br/>
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>

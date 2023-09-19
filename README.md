@@ -24,3 +24,13 @@
 
 <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+Atualmente estou aprendendo programação, e cada dia mais estou apaixonado pelo mundo da tecnologia.
+
+Sempre disposto a aprender.
+Gosto de adquirir habilidades novas
+
+## Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](danieelsilva32@gmail.com)
